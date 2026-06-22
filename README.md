@@ -24,7 +24,7 @@
 - 🐱 Built **Lucky Cat**, an Android personal finance tracker, with a 5-person team
 - 🌱 Exploring **data analysis** as my next deep-dive
 - 🤝 Mentoring first-year students through Emeris' GRIT 3SIXT program
-- ⚡ Fun fact: I went from Treasurer of my high school Life Science Club to debugging Java with 60 students at once
+- ⚡ Fun fact: I chose Computer Science with no background in coding.
 
 ---
 
@@ -65,18 +65,9 @@ An Android finance app built with a 5-person team featuring expense/income track
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lavanyax24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavanyax24&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyax24&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavanyax24&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyax24&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
@@ -92,9 +83,5 @@ An Android finance app built with a 5-person team featuring expense/income track
 | Cloud Development | C#, ASP.NET MVC, SSMS, Microsoft Azure |
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lavanyax24&style=for-the-badge&color=2E86C1" alt="profile views" />
-</p>
 
 <p align="center"><i>📫 Always happy to connect with fellow students and devs — reach out on LinkedIn!</i></p>
