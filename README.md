@@ -51,28 +51,10 @@
 
 ---
 
-### 🐱 Featured Project
-
-<p align="center">
-  <a href="https://github.com/Lavanyax24/LuckyCat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lavanyax24&repo=luckyCat&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+### 🐱 [Featured Project: Lucky Cat](https://github.com/Lavanyax24/LuckyCat)
 
 **Lucky Cat — Personal Finance Tracker** 🐾
 An Android finance app built with a 5-person team featuring expense/income tracking, budget goals, and receipt uploads via Supabase Storage and Firebase Authentication, with interactive analytics graphs and real-time cross-device sync through a PostgreSQL backend.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavanyax24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyax24&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyax24&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
