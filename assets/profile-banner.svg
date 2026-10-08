@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Lavanya Pillay — Student, Tutor, Builder. A little code, a lot of curiosity.">
+<defs><linearGradient id="pastel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F0E6FA"/><stop offset="0.58" stop-color="#F9E8F0"/><stop offset="1" stop-color="#FCEDE7"/></linearGradient></defs>
+<rect width="1200" height="340" rx="24" fill="url(#pastel)"/>
+<circle cx="1090" cy="65" r="142" fill="#E4D4F2" opacity=".55"/><circle cx="1138" cy="283" r="133" fill="#F3CEDE" opacity=".6"/><circle cx="955" cy="185" r="62" fill="#FFF9F4" opacity=".8"/>
+<g fill="#9C7CB1"><path d="M1025 132l6 17 17 6-17 6-6 17-6-17-17-6 17-6z"/><path d="M1131 196l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/><circle cx="934" cy="81" r="4"/><circle cx="1069" cy="247" r="5"/></g>
+<text x="64" y="75" font-family="Arial,sans-serif" font-size="16" letter-spacing="3" fill="#745E87">A LITTLE CODE, A LOT OF CURIOSITY</text>
+<text x="60" y="156" font-family="Georgia,serif" font-size="66" fill="#533D6C">Hi, I’m Lavanya.</text>
+<text x="64" y="210" font-family="Arial,sans-serif" font-size="23" fill="#6A537C">Learning, building &amp; helping others grow.</text>
+<rect x="64" y="248" width="300" height="42" rx="21" fill="#EEE1F6"/>
+<text x="86" y="275" font-family="Arial,sans-serif" font-size="16" fill="#533D6C">STUDENT · TUTOR · BUILDER</text>
+</svg>

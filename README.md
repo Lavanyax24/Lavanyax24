@@ -1,69 +1,148 @@
-<h1 align="center">Hi there, I'm Lavanya 👋</h1>
+<a id="top"></a>
 
-<h3 align="center">Final-year Computer & Information Science student | Tutor | Builder</h3>
+![Hi, I’m Lavanya — learning, building and helping others grow](assets/profile-banner.svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Tutoring+Java+%26+C%23+at+Emeris;Building+Android+apps+with+Kotlin;Exploring+Data+Analysis+%F0%9F%93%8A;" alt="Typing SVG" />
+# 🌷 Hi there, I’m Lavanya Pillay
+
+**🎓 Final-year Computer & Information Science student · 👩‍🏫 Tutor · 💻 Builder**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3500&amp;pause=1400&amp;color=9B72B0&amp;center=false&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=Building+Android+apps+with+Kotlin;Sharing+knowledge+through+tutoring;Exploring+data+analysis;Turning+curiosity+into+code" alt="Building Android apps with Kotlin; sharing knowledge through tutoring; exploring data analysis; turning curiosity into code" />
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lavanya-pillay-46a6a5373"><img src="https://img.shields.io/badge/LinkedIn-Connect-DCC8ED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=533D6C&amp;labelColor=F0E6F7" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:lavanyapillay24@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-F3CFDE?style=for-the-badge&amp;logo=gmail&amp;logoColor=70465B&amp;labelColor=FCEAF0" alt="Email Lavanya" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lavanya-pillay-46a6a5373">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lavanyapillay24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+> 🌸 I started Computer Science with no coding background. Now I build applications, help other students learn, and keep finding new things to be curious about.
+
+**Explore:** [🌷 About me](#about-me) · [🧰 My toolkit](#tech-stack) · [✨ Projects](#projects) · [👩‍🏫 Tutoring](#tutoring) · [💌 Connect](#connect)
+
+---
+
+<a id="about-me"></a>
+
+## 🌷 A Little About Me
+
+- 🎓 Final-year **Bachelor of Computer and Information Science** student at **IIE Varsity College**.
+- 👩‍🏫 Experience tutoring **Programming and Cloud Development** at **Emeris**, currently tutoring Cloud Development.
+- 🤝 Mentor to first-year students through **Emeris’ GRIT 3SIXT programme**.
+- 📱 Enjoy building Android applications with **Kotlin and Jetpack Compose**.
+- 📊 Exploring **data analysis** as my next area of focus.
+- 🌱 Learning through practical projects, collaboration and helping others understand code.
+
+---
+
+<a id="tech-stack"></a>
+
+## 🧰 My Toolkit
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-EADCF5?style=for-the-badge&amp;logo=openjdk&amp;logoColor=533D6C" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-EADCF5?style=for-the-badge&amp;logoColor=533D6C" alt="C sharp" />
+  <img src="https://img.shields.io/badge/Kotlin-EADCF5?style=for-the-badge&amp;logo=kotlin&amp;logoColor=533D6C" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/SQL-EADCF5?style=for-the-badge&amp;logo=postgresql&amp;logoColor=533D6C" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-EADCF5?style=for-the-badge&amp;logo=html5&amp;logoColor=533D6C" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-EADCF5?style=for-the-badge&amp;logoColor=533D6C" alt="CSS3" />
+</p>
+
+### 📱 Development & Design
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-F6DCE7?style=for-the-badge&amp;logo=jetpackcompose&amp;logoColor=70465B" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Android_Studio-F6DCE7?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=70465B" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-F6DCE7?style=for-the-badge&amp;logo=dotnet&amp;logoColor=70465B" alt="ASP.NET MVC" />
+  <img src="https://img.shields.io/badge/Figma-F6DCE7?style=for-the-badge&amp;logo=figma&amp;logoColor=70465B" alt="Figma" />
+  <img src="https://img.shields.io/badge/GitHub-F6DCE7?style=for-the-badge&amp;logo=github&amp;logoColor=70465B" alt="GitHub" />
+</p>
+
+### ☁️ Cloud & Data
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-D9EAE7?style=for-the-badge&amp;logoColor=355C56" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Supabase-D9EAE7?style=for-the-badge&amp;logo=supabase&amp;logoColor=355C56" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-D9EAE7?style=for-the-badge&amp;logo=firebase&amp;logoColor=355C56" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-D9EAE7?style=for-the-badge&amp;logo=postgresql&amp;logoColor=355C56" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SSMS-D9EAE7?style=for-the-badge&amp;logoColor=355C56" alt="SQL Server Management Studio" />
 </p>
 
 ---
 
-### 🧠 About Me
+<a id="projects"></a>
 
-- 🎓 Final-year **B. Computer and Information Science** student at IIE Varsity College
-- 👩‍🏫 Tutor in **Programming** and **Cloud Development** at Emeris
-- 🐱 Built **Lucky Cat**, an Android personal finance tracker, with a 5-person team
-- 🌱 Exploring **data analysis** as my next deep-dive
-- 🤝 Mentoring first-year students through Emeris' GRIT 3SIXT program
-- ⚡ Fun fact: I chose Computer Science with no background in coding.
+## ✨ Things I’ve Helped Build
 
----
+Both projects below were developed collaboratively. Their repositories include the full application, team credits and details of my individual contribution.
 
-### 🛠️ Tech Stack
+### 🐱 [LuckyCat — Personal Finance Tracker](https://github.com/Lavanyax24/LuckyCat)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+*Helping users make sense of where their money goes.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+An Android finance application built with a **five-person team**, featuring income and expense tracking, budget goals, receipt uploads and interactive analytics. Firebase Authentication and Supabase support the shared application.
+
+**🌸 My contribution**
+
+- 📊 **Analytics and graphs:** date-range controls, category spending charts with budget goal overlays, daily spending trends, and PDF/CSV exports.
+- 🎨 **UI and theme:** visual design work and the analytics colour palette.
+- ➕ **Expense entry:** the Create Expense screen, including numeric entry and category/date inputs.
+- 🗂️ **Custom categories:** category creation with emoji icons.
+
+<img src="https://img.shields.io/badge/Kotlin-533D6C?style=flat-square" alt="Kotlin" /> <img src="https://img.shields.io/badge/Android-9B72B0?style=flat-square" alt="Android" /> <img src="https://img.shields.io/badge/Supabase-6B948C?style=flat-square" alt="Supabase" /> <img src="https://img.shields.io/badge/Firebase-BD809A?style=flat-square" alt="Firebase" />
+
+[**Explore LuckyCat →**](https://github.com/Lavanyax24/LuckyCat)
 
 ---
 
-### 🐱 [Featured Project: Lucky Cat](https://github.com/Lavanyax24/LuckyCat)
+### 🍃 [Elachi — Your Digital Kitchen Companion](https://github.com/Lavanyax24/Elachi)
 
-**Lucky Cat — Personal Finance Tracker** 🐾
-An Android finance app built with a 5-person team featuring expense/income tracking, budget goals, and receipt uploads via Supabase Storage and Firebase Authentication, with interactive analytics graphs and real-time cross-device sync through a PostgreSQL backend.
+*Collect recipes. Prepare your pantry. Cook with confidence.*
+
+An Android recipe management application built with a **four-person team**, bringing together cookbooks, recipe scanning, pantry and shopping tools, guided cooking and an AI Chef. The complete system combines Kotlin/Compose with an Express API, Supabase and Firebase.
+
+**🌸 My allocated contribution areas**
+
+- 📖 **Cookbooks and recipes:** screens and ViewModels for recipe organisation, entry and details.
+- 📷 **Scanning and cook mode:** camera/OCR interfaces, guided cooking, timers, spoken instructions, serving controls and recipe PDF export.
+- 🥬 **Pantry and discovery:** pantry/shopping-list interfaces, ingredient units, kitchen timer, recipe search and filtering.
+- 👩‍🍳 **AI Chef and progress:** Android chat screen/ViewModel, achievement progress interface and cooking streak calendar.
+
+These areas follow the team allocation for Phases 4, 5a and 6b. My teammates’ workstreams included authentication, shared repositories, backend AI integration and server-side progression logic.
+
+<img src="https://img.shields.io/badge/Kotlin-533D6C?style=flat-square" alt="Kotlin" /> <img src="https://img.shields.io/badge/Jetpack_Compose-9B72B0?style=flat-square" alt="Jetpack Compose" /> <img src="https://img.shields.io/badge/Express-6B948C?style=flat-square" alt="Express" /> <img src="https://img.shields.io/badge/Supabase-BD809A?style=flat-square" alt="Supabase" />
+
+[**Explore Elachi →**](https://github.com/Lavanyax24/Elachi) · [**Watch the team demo 🎬**](https://youtu.be/_9Ekp7AXjG8)
 
 ---
 
-### ✨ Currently Tutoring
+<a id="tutoring"></a>
 
-| Course | Topics |
-|---|---|
-| Cloud Development | C#, ASP.NET MVC, SSMS, Microsoft Azure |
+## 👩‍🏫 Sharing What I Learn
+
+Tutoring and mentoring are part of my journey alongside building software.
+
+| Experience | Focus |
+| :--- | :--- |
+| ☁️ **Currently tutoring Cloud Development** | C#, ASP.NET MVC, SSMS and Microsoft Azure |
+| 💻 **Programming tutoring experience** | Java and C# |
+| 🤝 **GRIT 3SIXT mentoring** | Supporting first-year students at Emeris |
+
+### 🌱 What I’m Exploring Next
+
+**Data analysis** — bringing my interest in SQL and problem-solving into the way I explore and understand data.
 
 ---
 
-<p align="center"><i>📫 Always happy to connect with fellow students and devs — reach out on LinkedIn!</i></p>
+<a id="connect"></a>
+
+## 💌 Let’s Connect
+
+Happy to connect with fellow students, developers and people working in data. Reach out to talk about projects, learning or opportunities.
+
+**💼 [LinkedIn](https://www.linkedin.com/in/lavanya-pillay-46a6a5373)** · **📧 [Email](mailto:lavanyapillay24@gmail.com)**
+
+---
+
+*🌷 A little code, a lot of curiosity — and always something new to learn.*
+
+[⬆️ Back to top](#top)
